@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KadaiNationView</string>
+    <string-array name="nation_list">
+        <item>中国</item>
+        <item>インド</item>
+        <item>アメリカ</item>
+        <item>インドネシア</item>
+        <item>パキスタン</item>
+        <item>ナイジェリア</item>
+        <item>ブラジル</item>
+        <item>バングラデシュ</item>
+        <item>ロシア</item>
+        <item>メキシコ</item>
+        <item>日本</item>
+        <item>エチオピア</item>
+        <item>フィリピン</item>
+        <item>エジプト</item>
+        <item>ベトナム</item>
+    </string-array>
+</resources>
