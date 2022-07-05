@@ -1,4 +1,5 @@
 <resources>
+    //課題2
     <string name="app_name">KadaiNationView</string>
     <string-array name="nation_list">
         <item>中国</item>
